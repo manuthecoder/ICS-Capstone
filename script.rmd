@@ -20,7 +20,7 @@ mean(frpm2223$`Enrollment \r\n(Ages 5-17)`)
 ```
 
 
-# Plot the data
+# List all the columns
 ```{r}
-plot(frpm2223$`Enrollment \r\n(Ages 5-17)`)
+colnames(frpm2223)
 ```
