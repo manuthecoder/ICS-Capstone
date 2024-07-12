@@ -16,3 +16,8 @@ frpm2223 <- read_excel("data/frpm2223.xlsx")
 ```{r}
 mean(frpm2223$`Enrollment \r\n(Ages 5-17)`)
 ```
+
+# Plot the data
+```{r}
+plot(frpm2223$`Enrollment \r\n(Ages 5-17)`)
+```
