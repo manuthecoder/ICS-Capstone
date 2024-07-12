@@ -1,0 +1,12 @@
+## Load Libraries
+
+```{r}
+install.packages("tidyverse")
+```
+
+# Load Data
+```{r}
+# Load data/frpm2223.xlsx
+library(readxl)
+frpm2223 <- read_excel("data/frpm2223.xlsx")
+```
