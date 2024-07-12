@@ -21,7 +21,8 @@
 		"streetsidesoftware.code-spell-checker",
 		"eamodio.gitlens",
 		"sdras.night-owl",
-		"Mikhail-Arkhipov.r"
+		"Mikhail-Arkhipov.r",
+		"ms-vsliveshare.vsliveshare"
 	]
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
