@@ -10,7 +10,7 @@ install.packages("readxl")
 ```{r}
 # Load data/frpm2223.xlsx
 library(readxl)
-frpm2223 <- read_excel("data/frpm2223.xlsx")
+frpm2223 <- read_excel("data/frpm2223.xlsx") 
 ```
 
 
