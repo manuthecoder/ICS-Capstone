@@ -1,5 +1,4 @@
 hi there
-hello :)
 
 # Live share code link: (7/12)
 
